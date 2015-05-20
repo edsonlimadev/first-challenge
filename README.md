@@ -24,3 +24,13 @@ Observe que o nome da categoria deve casar exatamente com o que está no dataset
 
 Devemos permitir permitir a exibição do dataset em dois formatos (**json** e **xml**).
 Fica a critério do desenvolvedor definir como será informado o tipo de exibição desejado.
+
+# Critérios de Aceitação
+
+## Funcionamento
+
+**Deve** conter cobertura de teste unitário, ao menos do funcionamento principal.
+
+## Qualidade
+
+**Deve** passar no Code Sniffer (Standard PSR-2)
